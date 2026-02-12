@@ -1,4 +1,9 @@
 # Documentation Dave
+<p align="center">
+  <a href="https://github.com/DocumentationDave/site/actions/workflows/deploy.yml">
+    <img src="https://github.com/DocumentationDave/site/actions/workflows/deploy.yml/badge.svg" alt="Deploy Docs">
+  </a>
+</p>
 
 <p align="center">
   <img src="assets/logo_words.png" width="300">
@@ -25,7 +30,7 @@ This repository stores the Markdown source used to generate the public site.
 ## Structure
 
 - `docs/` – Markdown content for the site
-- `assets/` - supporting files/images
+- `assets/` - Supporting files and images
 - `mkdocs.yml` – Site configuration
 - `.github/workflows/` – Automated deployment configuration
 
@@ -48,6 +53,6 @@ Any changes pushed to `main` are automatically published.
 
 ## License
 
-Content is licensed under the MIT License unless otherwise noted.
+This repository is licensed under the MIT License.
 
 ---
